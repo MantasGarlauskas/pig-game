@@ -13,7 +13,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 ### Links
 
-- [Solution URL](https://mantasgarlauskas.github.io/guess-my-number-game/)
+- [Solution URL](https://mantasgarlauskas.github.io/pig-game/)
 
 ### Built with
 
